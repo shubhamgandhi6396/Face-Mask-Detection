@@ -14,7 +14,7 @@ The COVID-19 mask detector we are planning to build today could potentially be u
 ## :hourglass: Project Demo
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Live Demo](https://github.com/chandrikadeb7/Face-Mask-Detection/blob/master/Readme_images/Demo.gif)
+![Live Demo](https://github.com/shubhamgandhi6396/ITCS-6156-Machine-Learning-Project-Group-11/blob/patch-1/Demo.gif)
 
 
 ## :warning: Technologies used
