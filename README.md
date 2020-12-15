@@ -37,7 +37,3 @@ This dataset consists of __20000 images__ belonging to two classes:
 
 We have used only 3000 Images from both classes. (6000 Total)
 
-## :key: Prerequisites
-
-All the dependencies and required libraries are included in the file <code>requirements.txt</code> [See here](https://github.com/chandrikadeb7/Face-Mask-Detection/blob/master/requirements.txt)
-
